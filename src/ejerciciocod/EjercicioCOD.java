@@ -12,11 +12,7 @@ public class EjercicioCOD {
     public static void main(String[] args) {
          System.out.println("Hola mundo");
         //Elimino los comentarios del inicio.
-        /** Comentario
-         * en varias
-         * lineas
-         */
-        //un nuevo comentario.
+        
     }
     
 }
